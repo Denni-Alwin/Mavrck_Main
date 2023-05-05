@@ -1,0 +1,137 @@
+May 05, 2023 3:40:09 PM com.mavrck.gridbot.server.ConfManager getProperties
+INFO: Loading props /home/denni-15540/xaxep/Mavrck-og/conf/conf.properties
+May 05, 2023 3:40:09 PM com.mavrck.gridbot.server.ConfManager getProperties
+INFO: Loading props /home/denni-15540/xaxep/Mavrck-og/conf/server.properties
+May 05, 2023 3:40:09 PM com.mavrck.gridbot.server.ConfManager getProperties
+INFO: Loading props /home/denni-15540/xaxep/Mavrck-og/conf/credential.properties
+May 05, 2023 3:40:09 PM com.mavrck.gridbot.server.ConfManager initialize
+INFO: MAVERICK Server ConfManager initialized Successfully.
+May 05, 2023 3:40:09 PM com.mavrck.gridbot.server.ServerMain main
+INFO: Server Started Successfully
+Starting ChromeDriver 103.0.5060.53 (a1711811edd74ff1cf2150f36ffa3b0dae40b17f-refs/branch-heads/5060@{#853}) on port 52916
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+May 05, 2023 3:40:10 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected upstream dialect: W3C
+May 05, 2023 3:40:10 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Found exact CDP implementation for version 103
+May 05, 2023 3:40:13 PM com.mavrck.gridbot.server.BotSession checkTicker
+INFO: [checkTicker] [TICKER] BTC/INR BTC/INR
+May 05, 2023 3:40:13 PM com.mavrck.gridbot.server.BotSession checkTicker
+INFO: [checkTicker] [TICKER] BTC/INR
+May 05, 2023 3:40:15 PM com.mavrck.gridbot.server.BotRoom handleBotSession
+INFO: BUYING
+May 05, 2023 3:40:18 PM com.mavrck.gridbot.server.BotSession getCurrentPrice
+INFO: [0;1m[44m[getCurrentPrice] [CURRENT PRICE] ₹25,25,080[0m
+May 05, 2023 3:40:18 PM com.mavrck.gridbot.server.BotSession buy
+INFO: [0;1m[32m[BOTSESSION] [BUY] 2525080[0m
+May 05, 2023 3:40:20 PM com.mavrck.gridbot.server.BotRoom handleBotSession
+INFO: SELLING
+May 05, 2023 3:40:23 PM com.mavrck.gridbot.server.BotSession getCurrentPrice
+INFO: [0;1m[44m[getCurrentPrice] [CURRENT PRICE] ₹25,25,080[0m
+May 05, 2023 3:40:23 PM com.mavrck.gridbot.server.BotSession sell
+INFO: [0;1m[31m[BOTSESSION] [SELL] 2525080[0m
+{BTC=com.mavrck.gridbot.server.BotSession@3d2ee678}
+com.mavrck.gridbot.server.BotSession@3d2ee678
+May 05, 2023 3:40:25 PM com.mavrck.gridbot.server.BotSession getCurrentPrice
+INFO: [0;1m[44m[getCurrentPrice] [CURRENT PRICE] ₹25,25,080[0m
+[2465080, 2475080, 2485080, 2495080, 2505080, 2515080, 2525080, 2535080, 2545080, 2555080, 2565080, 2575080]
+[red, red, red, red, red, red, red, green, green, green, green, green]
+{2485080=red, 2535080=green, 2495080=red, 2545080=green, 2505080=red, 2555080=green, 2465080=red, 2515080=red, 2565080=green, 2475080=red, 2525080=red, 2575080=green}
+May 05, 2023 3:40:40 PM com.mavrck.gridbot.server.BotSession getCurrentPrice
+INFO: [0;1m[44m[getCurrentPrice] [CURRENT PRICE] ₹25,25,080[0m
+May 05, 2023 3:40:40 PM com.mavrck.gridbot.server.BotRoom handleBotSession
+INFO: STAYING
+May 05, 2023 3:40:45 PM com.mavrck.gridbot.server.BotSession getCurrentPrice
+INFO: [0;1m[44m[getCurrentPrice] [CURRENT PRICE] ₹25,25,080[0m
+May 05, 2023 3:40:45 PM com.mavrck.gridbot.server.BotRoom handleBotSession
+INFO: STAYING
+May 05, 2023 3:40:50 PM com.mavrck.gridbot.server.BotSession getCurrentPrice
+INFO: [0;1m[44m[getCurrentPrice] [CURRENT PRICE] ₹25,25,080[0m
+May 05, 2023 3:40:50 PM com.mavrck.gridbot.server.BotRoom handleBotSession
+INFO: STAYING
+May 05, 2023 3:40:55 PM com.mavrck.gridbot.server.BotSession getCurrentPrice
+INFO: [0;1m[44m[getCurrentPrice] [CURRENT PRICE] ₹25,25,080[0m
+May 05, 2023 3:40:55 PM com.mavrck.gridbot.server.BotRoom handleBotSession
+INFO: STAYING
+May 05, 2023 3:41:00 PM com.mavrck.gridbot.server.BotSession getCurrentPrice
+INFO: [0;1m[44m[getCurrentPrice] [CURRENT PRICE] ₹25,25,080[0m
+May 05, 2023 3:41:00 PM com.mavrck.gridbot.server.BotRoom handleBotSession
+INFO: STAYING
+May 05, 2023 3:41:06 PM com.mavrck.gridbot.server.BotSession getCurrentPrice
+INFO: [0;1m[44m[getCurrentPrice] [CURRENT PRICE] ₹25,25,080[0m
+May 05, 2023 3:41:06 PM com.mavrck.gridbot.server.BotRoom handleBotSession
+INFO: STAYING
+May 05, 2023 3:41:11 PM com.mavrck.gridbot.server.BotSession getCurrentPrice
+INFO: [0;1m[44m[getCurrentPrice] [CURRENT PRICE] ₹25,25,080[0m
+May 05, 2023 3:41:11 PM com.mavrck.gridbot.server.BotRoom handleBotSession
+INFO: STAYING
+May 05, 2023 3:41:16 PM com.mavrck.gridbot.server.BotSession getCurrentPrice
+INFO: [0;1m[44m[getCurrentPrice] [CURRENT PRICE] ₹25,25,080[0m
+May 05, 2023 3:41:16 PM com.mavrck.gridbot.server.BotRoom handleBotSession
+INFO: STAYING
+May 05, 2023 3:41:21 PM com.mavrck.gridbot.server.BotSession getCurrentPrice
+INFO: [0;1m[44m[getCurrentPrice] [CURRENT PRICE] ₹25,25,080[0m
+May 05, 2023 3:41:21 PM com.mavrck.gridbot.server.BotRoom handleBotSession
+INFO: STAYING
+May 05, 2023 3:41:26 PM com.mavrck.gridbot.server.BotSession getCurrentPrice
+INFO: [0;1m[44m[getCurrentPrice] [CURRENT PRICE] ₹25,25,080[0m
+May 05, 2023 3:41:26 PM com.mavrck.gridbot.server.BotRoom handleBotSession
+INFO: STAYING
+May 05, 2023 3:41:31 PM com.mavrck.gridbot.server.BotSession getCurrentPrice
+INFO: [0;1m[44m[getCurrentPrice] [CURRENT PRICE] ₹25,25,080[0m
+May 05, 2023 3:41:31 PM com.mavrck.gridbot.server.BotRoom handleBotSession
+INFO: STAYING
+May 05, 2023 3:41:36 PM com.mavrck.gridbot.server.BotSession getCurrentPrice
+INFO: [0;1m[44m[getCurrentPrice] [CURRENT PRICE] ₹25,25,080[0m
+May 05, 2023 3:41:36 PM com.mavrck.gridbot.server.BotRoom handleBotSession
+INFO: STAYING
+May 05, 2023 3:41:41 PM com.mavrck.gridbot.server.BotSession getCurrentPrice
+INFO: [0;1m[44m[getCurrentPrice] [CURRENT PRICE] ₹25,25,080[0m
+May 05, 2023 3:41:41 PM com.mavrck.gridbot.server.BotRoom handleBotSession
+INFO: STAYING
+May 05, 2023 3:41:46 PM com.mavrck.gridbot.server.BotSession getCurrentPrice
+INFO: [0;1m[44m[getCurrentPrice] [CURRENT PRICE] ₹25,25,080[0m
+May 05, 2023 3:41:46 PM com.mavrck.gridbot.server.BotRoom handleBotSession
+INFO: STAYING
+May 05, 2023 3:41:51 PM com.mavrck.gridbot.server.BotSession getCurrentPrice
+INFO: [0;1m[44m[getCurrentPrice] [CURRENT PRICE] ₹25,25,080[0m
+May 05, 2023 3:41:51 PM com.mavrck.gridbot.server.BotRoom handleBotSession
+INFO: STAYING
+May 05, 2023 3:41:56 PM com.mavrck.gridbot.server.BotSession getCurrentPrice
+INFO: [0;1m[44m[getCurrentPrice] [CURRENT PRICE] ₹25,25,080[0m
+May 05, 2023 3:41:56 PM com.mavrck.gridbot.server.BotRoom handleBotSession
+INFO: STAYING
+May 05, 2023 3:42:01 PM com.mavrck.gridbot.server.BotSession getCurrentPrice
+INFO: [0;1m[44m[getCurrentPrice] [CURRENT PRICE] ₹25,25,080[0m
+May 05, 2023 3:42:01 PM com.mavrck.gridbot.server.BotRoom handleBotSession
+INFO: STAYING
+May 05, 2023 3:42:06 PM com.mavrck.gridbot.server.BotSession getCurrentPrice
+INFO: [0;1m[44m[getCurrentPrice] [CURRENT PRICE] ₹25,25,080[0m
+May 05, 2023 3:42:06 PM com.mavrck.gridbot.server.BotRoom handleBotSession
+INFO: STAYING
+May 05, 2023 3:42:11 PM com.mavrck.gridbot.server.BotSession getCurrentPrice
+INFO: [0;1m[44m[getCurrentPrice] [CURRENT PRICE] ₹25,25,080[0m
+May 05, 2023 3:42:11 PM com.mavrck.gridbot.server.BotRoom handleBotSession
+INFO: STAYING
+May 05, 2023 3:42:16 PM com.mavrck.gridbot.server.BotSession getCurrentPrice
+INFO: [0;1m[44m[getCurrentPrice] [CURRENT PRICE] ₹25,25,080[0m
+May 05, 2023 3:42:16 PM com.mavrck.gridbot.server.BotRoom handleBotSession
+INFO: STAYING
+May 05, 2023 3:42:21 PM com.mavrck.gridbot.server.BotSession getCurrentPrice
+INFO: [0;1m[44m[getCurrentPrice] [CURRENT PRICE] ₹25,25,080[0m
+May 05, 2023 3:42:21 PM com.mavrck.gridbot.server.BotRoom handleBotSession
+INFO: STAYING
+May 05, 2023 3:42:26 PM com.mavrck.gridbot.server.BotSession getCurrentPrice
+INFO: [0;1m[44m[getCurrentPrice] [CURRENT PRICE] ₹25,25,080[0m
+May 05, 2023 3:42:26 PM com.mavrck.gridbot.server.BotRoom handleBotSession
+INFO: STAYING
+May 05, 2023 3:42:31 PM com.mavrck.gridbot.server.BotSession getCurrentPrice
+INFO: [0;1m[44m[getCurrentPrice] [CURRENT PRICE] ₹25,25,080[0m
+May 05, 2023 3:42:31 PM com.mavrck.gridbot.server.BotRoom handleBotSession
+INFO: STAYING
+May 05, 2023 3:42:36 PM com.mavrck.gridbot.server.BotSession getCurrentPrice
+INFO: [0;1m[44m[getCurrentPrice] [CURRENT PRICE] ₹25,25,080[0m
+May 05, 2023 3:42:36 PM com.mavrck.gridbot.server.BotRoom handleBotSession
+INFO: STAYING
