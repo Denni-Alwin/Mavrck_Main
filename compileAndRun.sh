@@ -38,7 +38,7 @@ jar -cf $SERVER_HOME/mavrck.jar -C $REPO_DIR/../classes com
 
 rm $REPO_DIR/../source.txt
 
-#nohup java -Dserver.home=/home/denni-15540/xaxep/Mavrck-og -cp $SERVER_HOME/mavrck.jar:$CLASS_PATH com.mavrck.gridbot.server.ServerMain > serverlog.out &
+#nohup java -Dserver.home=/home/denni-15540/xaxep/Mavrck-og -cp $SERVER_HOME/mavrck.jar:$CLASS_PATH com.mavrck.gridbot.server.ServerMain > ../logs/serverlog.out &
 java -Dserver.home=/home/denni-15540/xaxep/Mavrck-og -cp $SERVER_HOME/mavrck.jar:$CLASS_PATH com.mavrck.gridbot.server.ServerMain
 
 echo ""
